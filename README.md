@@ -3,4 +3,4 @@
 训练源码在 https://github.com/megvii-research/ECCV2022-RIFE ，有3.9k个star。
 而谷歌在ECCV2022发布的做视频帧插值的文章《FILM: Frame Interpolation for Large Motion》，
 模型简称film，训练源码在 https://github.com/google-research/frame-interpolation ，有2.6k个star
-它的onnx模型文件却有133M，相比于旷世发布的rife，大很多了。因此旷世发布的rife更适合在工业界落地应用
+，但是它的onnx模型文件却有133M，相比于旷世发布的rife，大很多了。因此旷世发布的rife更适合在工业界落地应用
