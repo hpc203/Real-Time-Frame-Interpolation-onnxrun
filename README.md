@@ -1,3 +1,4 @@
+起初想使用opencv-dnn做部署，可是opencv-dnn加载onnx文件时报错了，因而使用onnxruntime做部署。
 本套部署程序对应的paper是旷世研究院在ECCV2022发表的一篇文章《Real-Time Intermediate Flow Estimation for Video Frame Interpolation》，
 模型简称rife，onnx模型文件只有8.79M，模型已经很小了，
 训练源码在 https://github.com/megvii-research/ECCV2022-RIFE ，有3.9k个star。
